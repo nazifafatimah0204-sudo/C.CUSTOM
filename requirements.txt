@@ -1,0 +1,6 @@
+streamlit
+crewai>=1.15.9,<2
+openai
+scikit-learn
+pypdf
+requests

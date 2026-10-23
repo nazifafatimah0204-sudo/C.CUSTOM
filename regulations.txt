@@ -1,0 +1,39 @@
+SAMPLE KNOWLEDGE BASE - for learning and demos only. Replace or extend it with official customs rules (customs act, tariff, notices, WCO / WTO texts). Not legal advice.
+
+[DOC-001] Commercial Invoice - required content. Seller and buyer (consignee) full legal names and addresses; invoice number and date; clear goods description in commercial language; quantity and unit of measure; unit price and total value; currency; Incoterm with a named place; country of origin; payment terms; signature or stamp when the customs authority requires it.
+
+[DOC-002] Packing List - required content. Shipper and consignee; number and type of packages; marks and numbers; gross weight and net weight (per package and in total); dimensions or volume; description of contents that matches the invoice. The packing list must be consistent with the invoice and the transport document.
+
+[DOC-003] Bill of Lading / Air Waybill - required content. Shipper, consignee and notify party; vessel and voyage (or flight); ports of loading and discharge; container and seal numbers; number of packages; gross weight; description of goods; freight terms (prepaid or collect). The consignee on the transport document should match the importer named on the invoice and on the import declaration.
+
+[DOC-004] Certificate of Origin. Needed when preferential duty treatment is claimed or when the importing country requires it. It states the country of origin, exporter, consignee, goods description and HS code, and is issued or certified by an authorised body.
+
+[CON-001] Cross-document consistency (sample rule). These items must match across the invoice, packing list and transport document: shipper and consignee identity, goods description, number of packages, gross weight, container numbers, country of origin and HS code. Small formatting differences (abbreviations, punctuation, spacing in a company name) are normal. Differences in quantity, weight, or the identity of a party are discrepancies that need correction or a written explanation.
+
+[CON-002] Weight tolerance (sample rule). A gross weight difference of more than about 3 percent between the packing list and the transport document needs an explanation. A package count that differs between documents is always a discrepancy.
+
+[DT-001] Date logic (sample rule). The invoice date is normally on or before the on-board (shipped) date on the transport document. A bill of lading dated before the invoice is a red flag and should be explained.
+
+[VAL-001] Customs valuation. The main basis is the transaction value: the price actually paid or payable for goods sold for export to the country of import, plus required adjustments such as commissions (except buying commissions), packing and containers, assists, royalties and licence fees. The declared value must be consistent with the commercial invoice. Wrong or understated values can lead to penalties.
+
+[VAL-002] Invoice arithmetic. Line totals must equal quantity multiplied by unit price, and the invoice total must equal the sum of the lines. Arithmetic errors make the declared value unreliable and often trigger a customs query.
+
+[HS-001] HS classification. The Harmonized System (HS) of the World Customs Organization has chapters 01 to 97 (chapter 77 is reserved; 98 and 99 are reserved for national use). The first 6 digits are international. Countries add more digits for national tariff lines, commonly 8 or 10. The HS code must match the goods description, and the edition in force on the declaration date must be used.
+
+[INC-001] Incoterms 2020. Rules for any mode of transport: EXW, FCA, CPT, CIP, DAP, DPU, DDP. Rules for sea and inland waterway only: FAS, FOB, CFR, CIF. An Incoterm must be accompanied by a named place or port. A missing Incoterm makes it hard to decide which transport and insurance costs belong in the customs value.
+
+[INC-002] Incoterm and freight consistency. Under CFR, CIF, CPT, CIP, DAP, DPU and DDP the seller pays the main carriage, so the transport document normally shows freight prepaid. Under EXW, FCA, FAS and FOB the buyer pays, so freight collect is normal. A mismatch between the Incoterm and the freight terms should be flagged.
+
+[ORG-001] Country of origin. Origin is the country where goods are wholly obtained or where the last substantial transformation took place. The origin stated on the invoice, packing list and certificate must agree. Preferential claims need valid proof of origin.
+
+[RES-001] Prohibited and restricted goods. Many countries restrict imports and require a licence, permit or approval before arrival: weapons, ammunition and explosives; narcotics; counterfeit goods; certain chemicals; endangered species (CITES permits); medicines (health authority approval); food, plants and animals (sanitary and phytosanitary certificates); radio and telecom equipment (type approval). The importer should hold required permits before the goods arrive.
+
+[DG-001] Dangerous goods. Lithium batteries (UN3480, UN3481, UN3090, UN3091) are class 9 dangerous goods. Sea and air shipments need the correct UN number, packaging, labels and a dangerous goods declaration (IMDG for sea, IATA DGR for air). A vague description such as "electronic accessories" for goods that include batteries is a compliance risk.
+
+[DEC-001] Import declaration. The declaration normally needs the importer identity and tax registration number, HS code, value, currency, origin, quantity, weight, transport document reference and the supporting documents. Misdeclaring value, quantity, description or classification can lead to penalties, delay or seizure.
+
+[TAX-001] Duties and taxes. Duty is calculated from the declared value, HS code and origin. Sales tax, VAT or withholding tax may also apply under national law. An accurate HS code and value are needed for correct assessment.
+
+[MISS-001] Missing information. The most common causes of customs delay are: missing HS code, missing Incoterm, missing country of origin, missing tax ID of the importer, missing container number, and an unsigned invoice.
+
+[SEV-001] Severity guide (sample rule). CRITICAL: prevents clearance or suggests misdeclaration (value, weight or party mismatch, restricted goods without permit, undeclared dangerous goods). MAJOR: likely to cause a query or hold (missing HS code, Incoterm or origin; package count mismatch; arithmetic error). MINOR: formatting or spelling differences that do not change the meaning.
